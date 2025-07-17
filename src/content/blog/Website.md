@@ -1,9 +1,9 @@
 ---
-title: 'Website'
-description: '中文test'
-pubDate: '2025/7/18'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+title: 'Markide'
+description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
+pubDate: 'Jun 19 2024'
 ---
+
 [SSG+GIT+平台托管](https://g.co/gemini/share/f1f3e2c63b19)
 
 关于nodejs
